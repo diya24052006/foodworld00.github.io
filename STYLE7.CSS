@@ -1,0 +1,37 @@
+body{
+
+    background-attachment: fixed;
+    background-image: url("DINNER\ BACKGROUND.png");
+    background-color: #DFF2DC;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+}
+.button10{
+    background-color:#CC2D5F ;
+    border-radius: 3em;
+  margin-inline-start: 45%;
+  align-self:center ;
+    margin-top:10% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}
+.button11{
+    background-color:#CC2D5F ;
+    border-radius: 3em;
+      margin-inline-start: 45%;
+      align-self:center ;
+    margin-top:5% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}
+.button12{
+    background-color:#CC2D5F ;
+    border-radius: 3em;
+  margin-inline-start: 45%;
+  align-self:center ;
+    margin-top:5% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}

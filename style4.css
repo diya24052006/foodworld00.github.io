@@ -1,0 +1,35 @@
+body{
+
+    background-attachment: fixed;
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+}
+.button4{
+    background-image: url("thirdpage.png");
+    border-radius: 3em;
+  margin-inline-start: 45%;
+  align-self:center ;
+    margin-top:10% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}
+.button5{
+    background-image: url("thirdpage.png");
+    border-radius: 3em;
+      margin-inline-start: 45%;
+      align-self:center ;
+    margin-top:5% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}
+.button6{
+    background-image: url("thirdpage.png");
+    border-radius: 3em;
+  margin-inline-start: 45%;
+  align-self:center ;
+    margin-top:5% ;
+    font-size:x-large;
+    box-shadow: 8px  8px 4px ;
+}
